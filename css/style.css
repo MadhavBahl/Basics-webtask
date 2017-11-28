@@ -360,10 +360,10 @@ body {
 .carousel-indicators {
 	bottom:50;
 }
-.intro .carousel-control.right,.intro .carousel-control.left {
+/* .intro .carousel-control.right,.intro .carousel-control.left {
 	background-image:none;
 	display:none;
-}
+} */
 .carousel-indicators li,.carousel-indicators li.active {
 	width:15px;
 	height:15px;
