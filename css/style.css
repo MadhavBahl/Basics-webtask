@@ -8,6 +8,7 @@ body {
 	font-size:15px;
 	color:#777;
 	line-height:1.7;
+	overflow-x: hidden;
 }
 hr {
 	max-width:50px;
