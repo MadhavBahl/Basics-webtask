@@ -1,5 +1,5 @@
-# BASICS LANDING PAGE
-BASICS EDUVENTURE INTERNSHIP TASK
+# BASICS EDUVENTURES - Web Development Task
+BASICS EDUVENTURE INTERNSHIP TASK -- The task is to develop and design a home page.
 ### Features
   * Header with Site title, tag line and Menus
   * Photo Carousel or Slide Show, showing latest activiteies.
@@ -11,4 +11,4 @@ BASICS EDUVENTURE INTERNSHIP TASK
   * Connect Links part: Our social media links
   * Footer part: Subscribe bar, Contact Details, Terms and policies
  
- ## THE WEBSITE IS FULLY RESPONSIVE AND PROVIDES GOOD USER WXPERIENCE ON ANY DEVICE
+ ## THE WEBSITE IS FULLY RESPONSIVE AND PROVIDES GOOD USER EXPERIENCE ON ANY DEVICE
