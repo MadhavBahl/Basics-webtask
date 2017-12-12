@@ -1,5 +1,5 @@
 # BASICS EDUVENTURES - Web Development Task
-BASICS EDUVENTURE INTERNSHIP TASK -- The task is to develop and design a home page.
+The task is to develop and design a home page.
 ### Features
   * Header with Site title, tag line and Menus
   * Photo Carousel or Slide Show, showing latest activities.
